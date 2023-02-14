@@ -1,6 +1,6 @@
 # Sorting Practice
 
-## A basic sorting algorithm app that visualizes a list being sorted.
+## A basic algorithm app that visualizes a list being sorted.
 
 This project was built for personal curiosity, because I am learning sorting algorithms in school. The app could use some UI work, and possibly more algorithms. Check out the demo below.
 
